@@ -1,0 +1,42 @@
+.navbar-dark {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 43%, rgba(63, 8, 129, 1) 82%);
+}
+
+.contenedor {
+    display: flex;
+    background-color: blueviolet;
+}
+
+.primera {
+    background-color: greenyellow;
+}
+
+.segunda {
+    background-color: blue;
+}
+
+.tercera {
+    background-color: crimson;
+
+}
+
+.stock{
+padding: auto;
+align-items: center;
+text-align: center;
+display: flex;
+justify-content: center;
+color: black ;
+font-size: 30px;
+padding: 5px;
+margin: 5px;
+
+
+}
+
+.imagen{
+    width: 200px;
+    height: 200px;
+
+}
